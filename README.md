@@ -36,12 +36,12 @@ To perform the analysis and use the web application, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone [repository-url]
+    git clone [[repository-url]](https://github.com/KasAgg21/predicting-student-pass-fail.git)
     ```
 
 2. Navigate to the repository directory:
     ```bash
-    cd [repository-name]
+    cd predicting-student-pass-fail
     ```
 
 3. Run the Jupyter notebook:
